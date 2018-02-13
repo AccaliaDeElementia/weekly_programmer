@@ -1,4 +1,4 @@
-# Solution for [Week 3](README)
+# Solution for [Week 3](./)
 ## Author: [dkf](https://github.com/dkfellows)
 
 <a name="TCL"></a>

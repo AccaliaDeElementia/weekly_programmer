@@ -1,4 +1,4 @@
-# Solution for [Week 3](README)
+# Solution for [Week 3](./)
 ## Author: [Jaloopa](https://what.thedailywtf.com/user/Jaloopa)
 
 <a name="Python2"></a>

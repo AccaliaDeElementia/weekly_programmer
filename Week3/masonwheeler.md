@@ -1,4 +1,4 @@
-# Solution for [Week 3](README)
+# Solution for [Week 3](./)
 ## Author: [masonwheeler](https://what.thedailywtf.com/user/masonwheeler)
 
 <a name="Boo"></a>

@@ -1,4 +1,4 @@
-# Solution for [Week 3](README)
+# Solution for [Week 3](./)
 ## Author: [Vault_Dweller](https://what.thedailywtf.com/user/Vault_Dweller)
 
 <a name="TSQL"></a>

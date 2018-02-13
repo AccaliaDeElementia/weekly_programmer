@@ -1,4 +1,4 @@
-# Solution for [Week 3](README)
+# Solution for [Week 3](./)
 ## Author: [Kian](https://what.thedailywtf.com/user/kian)
 
 <a name="CPlusPlus"></a>
