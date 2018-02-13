@@ -24,12 +24,31 @@ Your challenge today is to write a program that generates the Baum-Sweet sequenc
 
 ## Challenge Solutions
 
+* In APL
+    * By [pie-flavor](pie-flavor)
+* In Asterisk
+    * By [Onyx](Onyx#Asterisk)
 * In C++
     * By [Kian](Kian)
+    * By [cvi](cvi)
+    * By [MZH](MZH)
 * In C#
     * By [Magis](Magus)
+    * By [DoctorJones](DoctorJones)
+* In DOS Batch
+    * By [anotherusername](anotherusername#DOSBATCH)
+* In Excel
+    * By [anotherusername](anotherusername#Excel)
+* In GW-BASIC
+    * By [anotherusername](anotherusername#GW-BASIC)
 * In Javascript
     * By [Accalia](Accalia)
     * By [anotherusername](anotherusername#Javascript)
+* In Python 2.x
+    * By [devjoe](devjoe)
+* In QBASIC
+    * By [Onyx](Onyx)
 * In TCL
     * By [dkf](dkf)
+* In X*^ Assembly
+    * By [anotherusername](anotherusername#X86ASM)
