@@ -1,4 +1,4 @@
-# Solution for [Week 1](Index)
+# Solution for [Week 1](Challenge)
 ## Author: [Accalia](https://github.com/AccaliaDeElementia)
 
 <a name="Javascript"></a>

@@ -1,4 +1,4 @@
-# Solution for [Week 1](Index)
+# Solution for [Week 1](Challenge)
 ## Author: [anonymous234](https://what.thedailywtf.com/user/anonymous234)
 
 <a name="Pseudocode"></a>

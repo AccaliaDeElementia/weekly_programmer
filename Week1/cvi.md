@@ -1,4 +1,4 @@
-# Solution for [Week 1](Index)
+# Solution for [Week 1](Challenge)
 ## Author: [cvi](https://what.thedailywtf.com/user/cvi)
 
 <a name="CPlusPlus"></a>

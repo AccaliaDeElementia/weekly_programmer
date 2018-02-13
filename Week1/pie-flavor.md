@@ -1,4 +1,4 @@
-# Solution for [Week 1](Index)
+# Solution for [Week 1](Challenge)
 ## Author: [pie-flavor](https://github.com/pie-flavor)
 
 <a name="APL"></a>

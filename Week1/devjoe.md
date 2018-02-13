@@ -1,4 +1,4 @@
-# Solution for [Week 1](Index)
+# Solution for [Week 1](Challenge)
 ## Author: [devjoe](https://what.thedailywtf.com/user/devjoe)
 
 <a name="Python2"></a>

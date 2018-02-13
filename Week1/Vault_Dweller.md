@@ -1,4 +1,4 @@
-# Solution for [Week 1](Index)
+# Solution for [Week 1](Challenge)
 ## Author: [Vault_Dweller](https://what.thedailywtf.com/user/Vault_Dweller)
 
 <a name="TSQL"></a>

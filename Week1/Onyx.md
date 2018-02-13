@@ -1,4 +1,4 @@
-# Solution for [Week 1](Index)
+# Solution for [Week 1](Challenge)
 ## Author: [Onyx](https://what.thedailywtf.com/user/Onyx)
 
 <a name="QBASIC"></a>

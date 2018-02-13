@@ -1,4 +1,4 @@
-# Solution for [Week 1](Index)
+# Solution for [Week 1](Challenge)
 ## Author: [Magus](https://what.thedailywtf.com/user/magus)
 
 <a name="CSharp"></a>

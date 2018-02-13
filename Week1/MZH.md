@@ -1,4 +1,4 @@
-# Solution for [Week 1](Index)
+# Solution for [Week 1](Challenge)
 ## Author: [MZH](https://what.thedailywtf.com/user/MZH)
 
 <a name="Javascript"></a>

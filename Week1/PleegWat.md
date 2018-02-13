@@ -1,4 +1,4 @@
-# Solution for [Week 1](Index)
+# Solution for [Week 1](Challenge)
 ## Author: [PleegWat](https://what.thedailywtf.com/user/PleegWat)
 
 <a name="C"></a>

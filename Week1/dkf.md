@@ -1,4 +1,4 @@
-# Solution for [Week 1](Index)
+# Solution for [Week 1](Challenge)
 ## Author: [dkf](https://github.com/dkfellows)
 
 <a name="TCL"></a>

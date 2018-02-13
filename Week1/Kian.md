@@ -1,4 +1,4 @@
-# Solution for [Week 1](Index)
+# Solution for [Week 1](Challenge)
 ## Author: [Kian](https://what.thedailywtf.com/user/kian)
 
 <a name="CPlusPlus"></a>
