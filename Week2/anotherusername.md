@@ -1,4 +1,4 @@
-# Solution for [Week 1](Challenge)
+# Solution for [Week 2](Challenge)
 ## Author: [anotherusername](https://what.thedailywtf.com/user/anotherusername)
 
 <a name="GWBASIC"></a>
