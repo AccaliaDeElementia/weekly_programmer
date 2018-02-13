@@ -1,5 +1,5 @@
 # Solution for [Week 1](Index)
-## Author: [Magus](https://what.thedailywtf.com/user/magus)
+## Author: [anotherusername](https://what.thedailywtf.com/user/anotherusername)
 
 <a name="Javascript"></a>
 ## Language: Javascript
