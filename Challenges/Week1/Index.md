@@ -22,5 +22,7 @@ Your challenge today is to write a program that generates the Baum-Sweet sequenc
 
 `1, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0`
 
-## Challenge Source
-This Challenge was sourced from a [Reddit post by jnazario](https://www.reddit.com/r/dailyprogrammer/comments/7j33iv/20171211_challenge_344_easy_baumsweet_sequence/). 
+## Challenge Solutions
+
+* In C++
+    * By [Kian](Kian)
