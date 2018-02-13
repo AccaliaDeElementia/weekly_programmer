@@ -1,4 +1,4 @@
-# Solution for [Week 3](README)
+# Solution for [Week 3](./)
 ## Author: [Perverted_Vixen](https://what.thedailywtf.com/user/Perverted_Vixen)
 
 <a name="Javascript"></a>
