@@ -35,6 +35,7 @@ Your challenge today is to write a program that generates the Baum-Sweet sequenc
 * In C#
     * By [Magis](Magus)
     * By [DoctorJones](DoctorJones)
+    * By [Maciejasjmj](Maciejasjmj) using LINQ
 * In DOS Batch
     * By [anotherusername](anotherusername#DOSBATCH)
 * In Excel
@@ -50,5 +51,7 @@ Your challenge today is to write a program that generates the Baum-Sweet sequenc
     * By [Onyx](Onyx)
 * In TCL
     * By [dkf](dkf)
+* In TSQL
+    * By [Vault_Dweller](Vault_Dweller)
 * In X*^ Assembly
     * By [anotherusername](anotherusername#X86ASM)
