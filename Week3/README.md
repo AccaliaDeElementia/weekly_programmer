@@ -41,3 +41,26 @@ Output:
 5 2 .5 .25 .1 .05
 16.01
 ```
+
+```
+1 .5 .25 .1
+.3
+```
+
+## Challenge Solutions
+
+* In Boo
+    * By [masonwheeler](masonwheeler)
+* In C++
+    * By [Kian](Kian)
+* In Javascript
+    * By [anotherusername](anotherusername)
+    * By [Perverted_Vixen](Perverted_Vixen)
+* In Python 2.x
+    * By [devjoe](devjoe)
+* In Squirrel
+    * By [cvi](cvi)
+* In TCL
+    * By [dkf](dkf)
+* In TSQL
+    * By [Vault_Dweller](Vault_Dweller)
