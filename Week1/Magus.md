@@ -2,7 +2,7 @@
 ## Author: [Magus](https://what.thedailywtf.com/user/magus)
 
 <a name="CSharp"></a>
-## Language: Javascript
+## Language: C#
 
 ```
 static void Main(string[] args)
