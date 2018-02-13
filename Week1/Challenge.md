@@ -1,4 +1,5 @@
 # Weekly Programmer - Week 1
+### From [Weekly Programmer Challenges](/weekly_programmer)
 
 ## Description
 In mathematics, the Baum–Sweet sequence is an infinite automatic sequence of 0s and 1s defined by the rule:
