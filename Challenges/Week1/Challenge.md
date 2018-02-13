@@ -26,3 +26,10 @@ Your challenge today is to write a program that generates the Baum-Sweet sequenc
 
 * In C++
     * By [Kian](Kian)
+* In C#
+    * By [Magis](Magus)
+* In Javascript
+    * By [Accalia](Accalia)
+    * By [anotherusername](anotherusername#Javascript)
+* In TCL
+    * By [dkf](dkf)

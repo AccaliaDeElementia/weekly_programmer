@@ -1,5 +1,7 @@
 # Solution for [Week 1](Index)
 ## Author: [Kian](https://what.thedailywtf.com/user/kian)
+
+<a name="CPlusPlus"></a>
 ## Language: C++
 
 ```c++
@@ -38,7 +40,6 @@ int main(int argc, char** argv) {
 	return 0;
 }
 ```
-
 
 ## Challenge Output for n = 20:
 ```
