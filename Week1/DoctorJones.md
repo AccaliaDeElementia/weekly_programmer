@@ -4,7 +4,7 @@
 <a name="CSharp"></a>
 ## Language: C#
 
-```
+```c#
 void Main()
 {        
     string.Join(", ", GetBaumSweet(0, 20)).Dump();

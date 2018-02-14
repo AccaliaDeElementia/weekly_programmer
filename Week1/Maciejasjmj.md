@@ -4,7 +4,7 @@
 <a name="CSharp"></a>
 ## Language: C# (LINQ)
 
-```
+```c#
 static void Main(string[] args) {
  const int n = 20;
 

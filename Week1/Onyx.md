@@ -4,7 +4,7 @@
 <a name="QBASIC"></a>
 ## Language: QBASIC
 
-```
+```basic
 DIM n AS INTEGER
 REDIM bitArray(1)
 INPUT n%

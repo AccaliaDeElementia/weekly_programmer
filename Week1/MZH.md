@@ -4,7 +4,7 @@
 <a name="C++"></a>
 ## Language: C++
 
-```
+```c++
 #include <iostream>
 #include <string>
 

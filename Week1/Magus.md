@@ -4,7 +4,7 @@
 <a name="CSharp"></a>
 ## Language: C#
 
-```
+```c#
 static void Main(string[] args)
 {
 	var end = int.Parse(args.First());

@@ -3,7 +3,8 @@
 
 <a name="CPlusPlus"></a>
 ## Language: C++
-```
+
+```c++
 #include <cstdint>
 #include <x86intrin.h>
 

@@ -3,7 +3,8 @@
 
 <a name="C"></a>
 ## Language: C
-```
+
+```c
 #include <stdio.h>
 #include <stdlib.h>
 

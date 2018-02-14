@@ -4,7 +4,7 @@
 <a name="Javascript"></a>
 ## Language: Javascript
 
-```
+```javascript
 const baumSweet = (n) => /1(00)*0(1|$)/.test(n.toString(2)) ? 0 : 1;
 const baumSweetSeq = n => new Array(n + 1).fill().map((_,n) => baumSweet(n));
 console.log(baumSweetSeq(20).join(', '));

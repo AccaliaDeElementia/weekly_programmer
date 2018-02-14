@@ -4,7 +4,7 @@
 <a name="Python2"></a>
 ## Language: Python 2.x
 
-```
+```python
 import sys
 
 BS=[]

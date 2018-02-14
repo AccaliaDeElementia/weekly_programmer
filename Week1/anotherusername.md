@@ -4,7 +4,7 @@
 <a name="Javascript"></a>
 ## Language: Javascript
 
-```
+```javascript
 function BaumSweet(n) {
   for (var a = [], i = 0; i <= n; ++ i) {
     for (var j = i; j && j % 4 == 0; j /= 4);
@@ -23,7 +23,7 @@ function BaumSweet(n) {
 <a name="QW-BASIC"></a>
 ## Language: GW-BASIC
 
-```
+```basic
 10 INPUT"n";N
 20 DIM A(N)
 30 FOR I=0 TO N:J=I
@@ -40,7 +40,8 @@ function BaumSweet(n) {
 
 <a name="X86ASM"></a>
 ## Language: X86 Assembly
-```
+
+```asm
     XOR   BX,BX
     MOV   AH,02
     MOV   DL,6E              ;'n'
@@ -120,7 +121,8 @@ function BaumSweet(n) {
 
 <a name="DOSBATCH"></a>
 ## Language: DOS Batch
-```
+
+```batch
 @echo off
 
 set /p "max=n? "
@@ -156,6 +158,7 @@ echo %out%
 
 <a name="Excel"></a>
 ## Language: Excel
+
 ```
 "n? ",20,,"=IF(ISBLANK(OFFSET(A2,0,B1)),""Error - Extend the formula in cell A2 at least ""&B1&"" columns to the right (""&ADDRESS(2,B1+1)&"")"","""")"
 "=IF(COLUMN()-1>$B$1,"""",IF(COLUMN()<3,""1"",MID(CHOOSE(VALUE(LEFT(OFFSET($A$2,0,INT((COLUMN()-1)/4)*2),1))*2+VALUE(LEFT(OFFSET($A$2,0,INT((COLUMN()-1)/4)*2+1),1))+1,""0000"",""1001"",""0100"",""1101""),MOD(COLUMN()-1,4)+1,1))&IF(COLUMN()-1<$B$1,"", "",""""))"

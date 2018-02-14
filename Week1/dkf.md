@@ -4,8 +4,7 @@
 <a name="TCL"></a>
 ## Language: TCL
 
-
-```
+```tcl
 proc bsn {n} {
     # One special case
     if {$n == 0} {return 1}

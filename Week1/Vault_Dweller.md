@@ -4,7 +4,7 @@
 <a name="TSQL"></a>
 ## Language: TSQL
 
-```
+```sql
 declare @n as int = 20
 
 if object_id('tempdb.dbo.#main') is not null
