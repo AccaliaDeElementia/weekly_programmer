@@ -6,7 +6,7 @@
 
 ### Naive Solution
 
-```
+```javascript
 const calculateChangeNaive = (change, coins = [.5, .25, .1, .05, .01]) => {
     const fudge = 1e-7; // fudge factor for floating point math
     const makeChange = (change) => {
