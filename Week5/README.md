@@ -22,7 +22,7 @@ Valid inputs consist of the following tokens, each separated from the next token
 For example:
 
 ```text
-15 7 1 1 + − ÷ 3 × 2 1 1 + + − =
+15 7 1 1 + − / 3 × 2 1 1 + + − =
 ```
 
 ### Output description
@@ -38,7 +38,7 @@ From the above example the program should output the following:
 ## Challenge Inputs
 
 ```text
-15 7 1 1 + − ÷ 3 × 2 1 1 + + − =
+15 7 1 1 + − / 3 × 2 1 1 + + − =
 .333 .333 .333 + + =
 .1 .1 + .1 + =
 2 2 * 5 5 * =
