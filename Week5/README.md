@@ -29,6 +29,8 @@ For example:
 
 The result of the calculation, or if the stack is malformed an error message indicating what token was found and what class of token was expected.
 
+From the above example the program should output the following:
+
 ```text
 5
 ```
