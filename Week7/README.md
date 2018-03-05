@@ -53,19 +53,25 @@ The light ended: Off
 
 ## Challenge Inputs
 
+1. Valid with inline comment
+
 ```text
 1 06:45
 1 09:30
 1 19:00
+0 17:10
 0 00:00 This is the initial condition
 0 09:15
-0 17:10
 0 22:20
 ```
+
+2. Vacuously valid
 
 ```text
 1 00:00
 ```
+
+3. Valid with duplicate entry
 
 ```text
 0 00:00
@@ -74,12 +80,16 @@ The light ended: Off
 0 10:00
 ```
 
+4. Invalid with conflicting entry
+
 ```text
 0 00:00
 1 09:00
 0 09:00
 1 10:00
 ```
+
+5. Valid with overlapping entry
 
 ```text
 0 00:00
@@ -91,4 +101,34 @@ The light ended: Off
 0 10:01
 0 10:10
 0 10:50
+```
+
+6. Invalid, missing start state
+
+```text
+1 09:00
+1 09:10
+1 09:30
+1 09:55
+0 10:00
+0 10:01
+0 10:10
+0 10:50
+```
+
+7. Valid with post data comment
+
+```text
+0 00:00
+1 09:00
+0 10:00
+-
+0 11:50
+```
+
+8. Invalid with unparseable timestamp
+
+```text
+0 00:00
+1 99:00
 ```
