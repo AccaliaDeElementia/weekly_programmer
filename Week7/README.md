@@ -1,4 +1,4 @@
-# Weekly Programmer - Week 6
+# Weekly Programmer - Week 7
 
 *From [Weekly Programmer Challenges](/weekly_programmer)*
 
