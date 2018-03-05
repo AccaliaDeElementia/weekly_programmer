@@ -36,6 +36,7 @@ Example input:
 --------------------------------------
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Nam lacinia vel eros eu fringilla.
+1 22:30
 Fusce porttitor laoreet aliquet.
 ```
 
