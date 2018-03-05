@@ -6,7 +6,7 @@
 
 Write a program that calculates how long a lightbulb has been on.
 
-Our lightbulb has two buttons, one that turns the light on, and one that turns the light off. Pressing the on button while the light is on has no effect, and pressing the off button while the light is off has no effect. Given a log of button presses for a day calculate how ling the light is on, and indicate the final state of the light at the end of the day.
+Our lightbulb has two buttons, one that turns the light on, and one that turns the light off. Pressing the on button while the light is on has no effect, and pressing the off button while the light is off has no effect. Given a log of button presses for a day calculate how long the light is on, and indicate the final state of the light at the end of the day.
 
 ## Formal Inputs & Outputs
 
